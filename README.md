@@ -11,3 +11,6 @@ For example if you raise following figure:-
 3. For Volume up
 4. For Volume Down
 5. For pause or unpause the video
+
+
+![WhatsApp Image 2023-10-07 at 21 15 02](https://github.com/parvathinathan2002/Automated-Media-player-Using-Hand-Gestures/assets/122083388/71ab9869-dd16-46a3-9029-a9a8183fd6b8)
